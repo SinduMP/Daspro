@@ -1,3 +1,7 @@
+
+
+
+
 # MATRIKS 
 R = int(input("Masukkan jumlah Baris:")) 
 C = int(input("Masukkan jumlah Kolom:"))  
