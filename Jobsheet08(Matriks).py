@@ -8,7 +8,7 @@ C = int(input("Masukkan jumlah Kolom:"))
 # Menganalisis data
 matrix = [] 
 print("Masukkan anggota (urut dari baris awal):") 
-# For user input 
+# input 
 for i in range(R):          # looping Baris
     a =[] 
     for j in range(C):      # Looping kolom
